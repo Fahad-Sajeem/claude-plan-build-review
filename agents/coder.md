@@ -1,6 +1,6 @@
 ---
 name: coder
-description: Implements ONE well-specified step from a plan written by the planner. Use for the coding phase of /plan-build-review, or whenever a precise, already-designed code change needs to be carried out. Not for planning, design decisions, or open-ended tasks.
+description: Implements ONE well-specified step from a plan written by the planner. Use for the coding phase of /plan-build-review or /reel-build-review, or whenever a precise, already-designed code change needs to be carried out. Not for planning, design decisions, or open-ended tasks.
 model: sonnet
 tools: Read, Edit, Write, Bash, Grep, Glob
 ---
