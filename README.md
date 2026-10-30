@@ -59,3 +59,7 @@ skills/plan-build-review/SKILL.md     The plan → build → review workflow
 ```
 
 During a run the skill writes `.claude/pbr-plan.md` in your project and deletes it at the end.
+
+## License
+
+[MIT](LICENSE)
